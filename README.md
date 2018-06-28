@@ -1,1 +1,1 @@
-SurfaceInspection
+﻿#Surface InspectionPara ejecutar el programa en modo entrenamiento:`main.py -tr <training_path>`Para ejecutar el programa en modo test:`main.py -te <test_path>`
